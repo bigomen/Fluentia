@@ -1,0 +1,2 @@
+Caro professor {{ professor }}, seja bem vindo � Fluentia.
+Seu cadastro foi realizado com sucesso e a senha gerada foi: {{ password }}

@@ -1,0 +1,7 @@
+<html>
+<body>
+Caro aluno {{ aluno }}, seja bem vindo à Fluentia.
+Seu cadastro foi realizado com sucesso e a senha gerada foi: {{ password }}
+Tenha um ótimo aprendizado!
+</body>
+</html>
